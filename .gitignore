@@ -1,0 +1,11 @@
+#dataset
+/ml-latest-small
+
+# virtualenv
+venv/
+ENV/
+
+.idea/
+
+# IPython Notebook
+.ipynb_checkpoints
