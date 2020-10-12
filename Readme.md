@@ -32,6 +32,10 @@ Os usuários foram selecionados aleatoriamente para inclusão. Todos os usuário
     - Gargalo na scalabilidade
 6. Estudos para o futuro
 
-
+# Nota
+Este trabalho foi escrito por [Kevin Liao] e possui pequenas modificaçoes feitas por [Pedro Augusto]. O artigo original também pode ser encontrado no [Medium]
 
    [base de dados minificada MovieLens]: <https://www.kaggle.com/pedroaugusto97/movielenssmall/download>
+   [Kevin Liao]: <https://towardsdatascience.com/@keliao>
+   [Medium]: <https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea>
+   [Pedro Augusto]: <https://github.com/pedroagcf>
